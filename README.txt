@@ -6,6 +6,12 @@
 3. 박정훈 추가
 =======
 3.asdfasdf
+<<<<<<< HEAD
+=======
 >>>>>>> f52d14870659bbacd71034e8ccf25bb6f0b52520
 sdffsdfsd
-4. pushpush
+
+>>>>>>> fc571d5538ef43c82546c37dd70f83c6352a60f1
+4. 이정윤 추가
+
+5. pushpush
